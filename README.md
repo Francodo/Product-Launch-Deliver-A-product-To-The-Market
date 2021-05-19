@@ -2,7 +2,7 @@
 
 Francis odo
 
-This project is about the development of all the necessary product documentation needed for a launch or take a product to the market.
+This project is about managing the product development process, and the development of all the necessary product documentation needed for a launch or take a product to the market.
 
 The following documentaions are provided:
 
