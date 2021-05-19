@@ -11,5 +11,6 @@ The following documentaions are provided:
 3. Marketing Guide
 4. Training Guide For Sales and Customer Support
 5. Launch Email
+6. Coordination Activities Map
 
 The process is applicable to any product development and the launch.
